@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://tubai:tubai1996@cluster0-zti5r.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"sou_maj_bandhu"
+}
